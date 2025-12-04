@@ -1,6 +1,8 @@
 from __future__ import division
 from collections import Counter
 
+# this example is about connections between  people 
+
 users = [
     {"id": 0, "name": "Hero"},
     {"id": 1, "name": "Dunn"},
